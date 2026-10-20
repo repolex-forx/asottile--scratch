@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/asottile/scratch/commit/a6016c69dbc535c217c6d901232cda545784e4ba",
       "git:hexsha": "a6016c69dbc535c217c6d901232cda545784e4ba",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     }
   ]
 }
